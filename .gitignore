@@ -1,0 +1,19 @@
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+__pycache__/
+db.sqlite3
+/media/
+/staticfiles/
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+.env/
+
+model.pkl
+scaler.pkl
